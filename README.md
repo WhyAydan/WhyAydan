@@ -1,8 +1,6 @@
 ## Hey Guess Who!
 I litrally do this for fun ;)
 
-🚀 Learn Linux, DevOps, Python, Docker, Kubernetes, Cybersecurity
-
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies
 <p>

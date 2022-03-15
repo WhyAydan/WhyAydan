@@ -41,10 +41,18 @@ I litrally do this for fun ;)
 </p>
 
 
-### Enjoy the stats!
-<p>
-<img align="left" width="430" height="auto" alt="WhyAydan github stats" src="https://github-readme-stats.vercel.app/api?username=whyaydan&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=WhyAydan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="WhyAydan" 
+    bg_color=#808080/></p>
+
 <br>
-<img align="left" width="359" height="auto" alt="WhyAydan github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyaydan&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
-</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WhyAydan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="WhyAydan" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WhyAydan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="WhyAydan" /></p>
 

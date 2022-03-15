@@ -24,11 +24,9 @@ I litrally do this for fun ;)
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&&logo=nginx&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&&logo=proxmox&logoColor=white" /> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&&logo=ubuntu&logoColor=white" /> 
-  <img alt="Alpine_Linux" src="https://img.shields.io/badge/-Alpine_Linux-0D597F?style=flat-square&&logo=alpine-linux&logoColor=white" />
   <img alt="ArchLinux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&&logo=arch-linux&logoColor=white" />
   <img alt="KaliLinux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&&logo=kali-linux&logoColor=white" />
   <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&&logo=wireguard&logoColor=white" /> 
-  <img alt="Teleport" src="https://img.shields.io/badge/-Teleport-512FC9?style=flat-square&&logo=teleport&logoColor=white" />
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat-square&&logo=wireshark&logoColor=white" /> 
 </p>
 

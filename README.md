@@ -1,6 +1,6 @@
 ## Hey Guess Who!
 I litrally do this for fun ;)
-<p><img align="center" src="https://github.com/WhyAydan/WhyAydan/blob/main/animation_500_kxa883sd.gif"/></p>
+<p><img align="right" src="https://github.com/WhyAydan/WhyAydan/blob/main/animation_500_kxa883sd.gif"/></p>
 
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies

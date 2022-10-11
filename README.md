@@ -1,6 +1,6 @@
 ## Hey Guess Who!
 I litrally do this for fun ;)
-![AboutMe](https://github.com/WhyAydan/WhyAydan/blob/main/About Me.svg)
+![AboutMe](https://github.com/WhyAydan/WhyAydan/blob/main/About Me.svg?raw=true)
 
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies

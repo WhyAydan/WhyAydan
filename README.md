@@ -1,5 +1,3 @@
-## Hey Guess Who!
-I litrally do this for fun ;)
 ![AboutMe](https://github.com/WhyAydan/WhyAydan/blob/main/AboutMe.png?raw=true)
 
 ## 🛠️ Technologies and Tools
